@@ -30,7 +30,3 @@ This project implements **camera pose estimation** and **augmented reality (AR)*
 | Real Chessboard | UFO | AR UFO Rendered |
 |-----------------|------------------|------------------|
 | ![chessboard](data/chessboard_output.gif) |![ufo](data/classic_ufo.png)| ![ufo_ar](data/chessboard_ufo_output.gif) |
-
-> *Top: Real chessboard image*  
-> *Middle: UFO image*
-> *Bottom: Overlayed 3D UFO model in AR (rotating animation)*
