@@ -16,11 +16,9 @@ This project implements **camera pose estimation** and **augmented reality (AR)*
 | 792.9     | 734.4     | 952.5     | 534.8     | 4.974  |
 
 ### 📌 Augmented Reality Rendering
-- Draws various virtual AR objects on the chessboard based on pose
+- Draws a UFO AR object on the chessboard based on pose(Fixed with camera view)
   - ✅ Custom 3D model (GLB) rendered with Open3D(/data/classic_ufo.glb)
   - ✅ Real-time animation (rotation or floating)
-  - ✅ Alternative objects: rotating cube, Saturn ring, emoji face
-- Can be easily extended to other formats or engines (VTK, Three.js, etc.)
 
 ---
 
